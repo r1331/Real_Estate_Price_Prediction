@@ -1,4 +1,5 @@
 🏠 Real Estate Price Prediction
+
 📌 Overview
 This project predicts real estate prices in Bangalore using machine learning. It uses property details such as location, square footage, number of bedrooms, and bathrooms to generate estimated prices.
 
