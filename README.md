@@ -12,4 +12,3 @@ An end-to-end **machine learning project** that predicts **real estate prices in
 - **Python** – Pandas, NumPy, scikit-learn, Matplotlib  
 - **Flask** – For model deployment  
 - **HTML/CSS/JS** – For frontend UI
-- 
