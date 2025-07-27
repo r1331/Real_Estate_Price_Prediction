@@ -1,18 +1,16 @@
-🏠 Real Estate Price Prediction
+# 🏡 Real Estate Price Prediction  
 
-📌 Overview
-This project predicts real estate prices in Bangalore using machine learning. It uses property details such as location, square footage, number of bedrooms, and bathrooms to generate estimated prices.
+## 📌 Overview  
+An end-to-end **machine learning project** that predicts **real estate prices in Bangalore** based on features like location, square footage, number of bedrooms, and bathrooms. The model is deployed using **Flask**, providing a simple and interactive web interface for users to input details and get price predictions instantly.  
 
-🚀 Features
-✅ End-to-end ML pipeline – Data cleaning, feature engineering, and model training
+## 🚀 Features  
+- ✅ **Data cleaning & preprocessing** – Handled outliers, missing values, and feature engineering  
+- ✅ **Machine learning model** – Built a regression model using **scikit-learn**  
+- ✅ **Web deployment** – Flask app with an easy-to-use interface for real-time predictions  
 
-✅ Web app built with Flask – User-friendly interface for predictions
+## 🛠️ Tech Stack  
+- **Python** – Pandas, NumPy, scikit-learn, Matplotlib  
+- **Flask** – For model deployment  
+- **HTML/CSS/JS** – For frontend UI  
 
-✅ Interactive dashboard-like UI – Easy input for real-time results
-
-🛠️ Tech Stack
-> Python (pandas, NumPy, scikit-learn)
-
-> Flask for backend
-
-> HTML, CSS, JS for UI
+## 📂 Project Structure  
